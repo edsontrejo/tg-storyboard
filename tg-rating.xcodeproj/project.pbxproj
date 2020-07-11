@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		7159CC1624BA028D004312D2 /* tg-rating.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "tg-rating.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7159CC1624BA028D004312D2 /* App Genial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "App Genial.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7159CC1924BA028D004312D2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7159CC1B24BA028D004312D2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		7159CC1D24BA028D004312D2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		7159CC1724BA028D004312D2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				7159CC1624BA028D004312D2 /* tg-rating.app */,
+				7159CC1624BA028D004312D2 /* App Genial.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -84,7 +84,7 @@
 			);
 			name = "tg-rating";
 			productName = "tg-rating";
-			productReference = 7159CC1624BA028D004312D2 /* tg-rating.app */;
+			productReference = 7159CC1624BA028D004312D2 /* App Genial.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -292,7 +292,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.eath.tg-rating";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "App Genial";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -310,7 +310,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.eath.tg-rating";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "App Genial";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
